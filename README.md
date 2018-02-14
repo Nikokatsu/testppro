@@ -1,5 +1,7 @@
 swiperproxy
 ===========
+[![Deploy to Heroku](http://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 
 [![Build Status](https://travis-ci.org/swiperproxy/swiperproxy.svg?branch=develop)](https://travis-ci.org/swiperproxy/swiperproxy)
 
